@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "Hamming coder "      # Project title
+  title:        "Hamming decoder "      # Project title
   author:       "TSaipriyaa"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "design and implementation of hamming code"      # One line description of what your project does
